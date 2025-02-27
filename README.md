@@ -29,7 +29,7 @@ Chumbot is a Chrome extension designed to assist users on the [CodeChum](https:/
 
 ## Video Demonstration
 
-![Chumbot Demo](Screen%20Recording%202025-02-27%20at%203.55.55%20PM.gif)
+![Chumbot Demo](chumbot-demo.gif)
 
 ## Installation
 
