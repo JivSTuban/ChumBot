@@ -1,0 +1,41 @@
+{
+    "manifest_version": 3,
+    "name": "Chumbot",
+    "version": "1.0",
+    "description": "Code generation extension",
+    "permissions": [
+      "activeTab",
+      "storage",
+      "scripting",
+      "tabs"
+    ],
+    "host_permissions": [
+      "*://*.codechum.com/*",
+      "*://citu.codechum.com/*"
+    ],
+    "web_accessible_resources": [{
+      "resources": ["content.js"],
+      "matches": ["*://*.codechum.com/*"]
+    }],
+    "background": {
+      "service_worker": "background.js",
+      "type": "module"
+    },
+    "content_scripts": [
+      {
+        "matches": [
+          "*://*.codechum.com/*"
+        ],
+        "js": [
+          "content.js"
+        ],
+        "css": [
+          "styles.css"
+        ],
+        "run_at": "document_idle"
+      }
+    ],
+    "externally_connectable": {
+      "matches": ["*://*.codechum.com/*"]
+    }
+}
