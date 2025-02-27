@@ -29,9 +29,9 @@ Chumbot is a Chrome extension designed to assist users on the [CodeChum](https:/
 
 ## Video Demonstration
 
-[![Chumbot Demo Video](https://img.youtube.com/vi/L8T0pts35ug/0.jpg)](https://youtu.be/L8T0pts35ug?si=bT7nOoufdRhkoNED)
+[![Chumbot Demo Video](https://img.youtube.com/vi/L8T0pts35ug/maxresdefault.jpg)](https://www.youtube.com/watch?v=L8T0pts35ug)
 
-This video shows how the Chumbot extension helps to automate the process of solving problems on CodeChum.
+Click the image above to watch the video demonstration of how Chumbot automates the process of solving problems on CodeChum.
 
 ## Installation
 
