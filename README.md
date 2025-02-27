@@ -29,7 +29,7 @@ Chumbot is a Chrome extension designed to assist users on the [CodeChum](https:/
 
 ## Video Demonstration
 
-[![Chumbot Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/L8T0pts35ug?si=bT7nOoufdRhkoNED)
+[![Chumbot Demo Video](https://img.youtube.com/vi/L8T0pts35ug/0.jpg)](https://youtu.be/L8T0pts35ug?si=bT7nOoufdRhkoNED)
 
 This video shows how the Chumbot extension helps to automate the process of solving problems on CodeChum.
 
@@ -99,19 +99,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-**Note:** Replace `<repository-url>` with the actual URL of your Git repository and replace `YOUR_VIDEO_ID` with the actual ID of your video.
-
-**Key improvements in the `README.md`:**
-
-*   **Video Embedding:** A new "Video Demonstration" section, with an embedded video using a YouTube thumbnail and link.
-*   **Video URL Placeholder:** I've used `YOUR_VIDEO_ID` as a clear placeholder so you know to put in your real YouTube video ID.
-* **Description:** Added a brief description of the video.
-
-**Next steps**
-
-1.  Upload your video to youtube.
-2. Update the `YOUR_VIDEO_ID` in the `README.md` with your video id.
-3. Upload the code to the repository.
-
-Now your `README.md` will have a great video demo!
-Let me know if you need help with something else.
+**Note:** Replace `<repository-url>` with the actual URL of your Git repository.
